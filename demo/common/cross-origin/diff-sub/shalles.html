@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Document</title>
+    </head>
+    <body>
+        <iframe id='xls' src="http://xiaole-s.github.io/demo/common/cross-origin/diff-sub/xiaole-s.html" frameborder="0"></iframe>
+        <script>
+        xls.onload = function(){
+            var xlsWin = xls.contentWindow;
+            xlsWin.log("a message from shalles.html and get data gA.a = " + xlsWin.gA.a);
+        }
+        </script>
+    </body>
+</html>
