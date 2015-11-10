@@ -1123,8 +1123,9 @@
 			"showSelector": true,
 			"selector": "class",
 			"classSelector": ".icon",
-			"cssVars": true,
-			"ie7": false
+			"cssVars": false,
+			"ie7": false,
+			"resetPoint": 59648
 		},
 		"imagePref": {
 			"prefix": "icon-",

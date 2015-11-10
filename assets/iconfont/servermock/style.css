@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'servermock';
-	src:url('fonts/servermock.eot?73zkbo');
-	src:url('fonts/servermock.eot?73zkbo#iefix') format('embedded-opentype'),
-		url('fonts/servermock.ttf?73zkbo') format('truetype'),
-		url('fonts/servermock.woff?73zkbo') format('woff'),
-		url('fonts/servermock.svg?73zkbo#servermock') format('svg');
+	src:url('fonts/servermock.eot?xmbimr');
+	src:url('fonts/servermock.eot?xmbimr#iefix') format('embedded-opentype'),
+		url('fonts/servermock.ttf?xmbimr') format('truetype'),
+		url('fonts/servermock.woff?xmbimr') format('woff'),
+		url('fonts/servermock.svg?xmbimr#servermock') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
